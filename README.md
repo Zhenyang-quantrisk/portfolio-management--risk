@@ -176,7 +176,8 @@ The project produces an efficient frontier together with:
 
 Example output:
 
-![Efficient Frontier](figures/efficient_frontier.png)
+<img width="1207" height="706" alt="image" src="https://github.com/user-attachments/assets/43e45025-93ee-46ef-ad61-52574f48b5eb" />
+
 
 ---
 
